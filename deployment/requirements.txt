@@ -1,0 +1,21 @@
+# requirements.txt
+
+# Web Framework and Server
+flask
+gunicorn
+
+# Core Data Science Libraries
+pandas
+numpy
+scikit-learn
+
+# Modeling
+xgboost
+
+# File Format Support
+pyarrow
+
+# (Optional but good to have for full project reproducibility)
+# Used for advanced experiments
+gensim
+optuna
